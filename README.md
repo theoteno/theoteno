@@ -21,6 +21,8 @@ For now, that's what I want to get started with.
 - I’m looking to collaborate on ...
 - How to reach me ...
 
+- My Codeberg repo, for source codes of my newer works: https://codeberg.org/theoteno/
+
 <!---
 theoteno/theoteno is a special repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
