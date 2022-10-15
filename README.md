@@ -8,7 +8,13 @@ I started playing with the idea after Audacity added telemetry without opt-out,
 
 Since then I used KWave(sound editor), but I kind of hated the yellow/blue select highlight.
 
-And near this October I saw 2 issues (2009,2014), both asking for simple filters.
+And near this October I saw 2 issues (2009,2014), both asking for simple filters in Gnome Sound Recorder.
+
+Pitivi could be used for audio editing, but it's more of a video editor.
+And simply 9 of 10 users would recommend it for editing videos, most likely.
+
+LMMS or Zrythm might could be good for this kind of use, but these type of programs[DAW] are having layouts for music production. (also, they can be complicated & scary to some of the new users.)
+
 For now, that's what I want to get started with.
 
 - I’m currently learning: Python
