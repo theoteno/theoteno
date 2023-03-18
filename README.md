@@ -17,6 +17,8 @@ LMMS or Zrythm might could be good for this kind of use, but these type of progr
 
 For now, that's what I want to get started with.
 
+I'd be happy to find an newer alternative for MusicId. For mobile I couldn't find any, but Tagger is a great gtk4 app for music tag editing on desktop.
+
 - I’m currently learning: Python
 - I’m looking to collaborate on ...
 - How to reach me ...
