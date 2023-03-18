@@ -1,5 +1,5 @@
 - Hi, I’m @theoteno
-- I’m interested in developing FOSS android & linux tools with Gtk4
+- I’m interested in developing FOSS android & linux tools with gtk4
 
 My first linux app will be Claps, a gtk4 (gnome) audio editor.
 
