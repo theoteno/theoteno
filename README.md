@@ -1,7 +1,7 @@
 - Hi, I’m @theoteno
-- I’m interested in developing FOSS android & linux tools with gtk4
+- I’m interested in developing FOSS Android & Linux tools with Gtk4
 
-My first linux app will be Claps, a gtk4 (gnome) audio editor.
+My first linux app will be Claps, a Gtk4 (Gnome) audio editor.
 
 I started playing with the idea after Audacity added telemetry without opt-out,
  and made some changes that were limiting who could use it at all(age restriction).
@@ -17,7 +17,7 @@ LMMS or Zrythm might could be good for this kind of use, but these Digital Audio
 
 For now, that's what I want to get started with.
 
-I'd be happy to find an newer alternative for MusicId. For mobile I couldn't find any, but Tagger is a great gtk4 app for music tag editing on desktop.
+I'd be happy to find an newer alternative for MusicId. For mobile I couldn't find any, but Tagger is a great Gtk4 app for music tag editing on desktop.
 
 <!---
 theoteno/theoteno is a special repository because its `README.md` (this file) appears on your GitHub profile.
